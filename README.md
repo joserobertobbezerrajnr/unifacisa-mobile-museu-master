@@ -7,12 +7,6 @@ Pré-requisitos
 Tecnologias
 Back-end foi desenvolvido utilizando Node.js, express, nodemon, sequelize e postgreSQL. Para testar as requisições utilizei o Insomnia. E para validação dos dados uma biblioteca chamada Yup.
 
-Como executar o back-end
-git clone https://github.com/arthuralveso/backend-museu.git
-cd  backend-museu
-yarn add express
-yarn start
-O servidor será executado em: http://localhost:3000
 
 Mobile
 O aplicativo mobile foi desenvolvido com Flutter, utilizando os conceitos da tecnologia, fizemos validação de formulario, realizamos as rotas entre as paginas do App, caputuramos o ID do celular e fazemos a conexão com o banco de dados.
